@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @ayanocloud
 - 👀 I’m interested in Code and Design
-- 🌱 I’m currently learning UI Developmnet
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning UI Development
+- 📫 How to reach me firmansyah.ayatullah@gmail.com
 
 <!---
 ayanocloud/ayanocloud is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
